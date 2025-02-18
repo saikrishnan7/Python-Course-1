@@ -1,0 +1,1 @@
+FILE_PATH = 'user_details.json'
