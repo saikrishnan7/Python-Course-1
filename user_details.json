@@ -1,17 +1,15 @@
-[
-    {
+[{
         "username": "saikrishnan7",
         "password": "JDJiJDEyJFdYbU1OdHlRWG1Xby53aTR3amRxYy5VT20zam1yZVVqclhwT2tXUjVhUkVTN3plLmJnL01L",
         "task_list": {
             "f3328002-4bc0-4789-9eb6-781d4cb6ad9a": {
                 "id": "f3328002-4bc0-4789-9eb6-781d4cb6ad9a",
                 "name": "Task-2",
-                "status": "Pending",
+                "status": "Completed",
                 "description": "Sample Task-2"
             }
         }
-    },
-    {
+    }, {
         "username": "sindhuja25",
         "password": "JDJiJDEyJDdvZ3FQWm5GV1cwRGJEUzE0eFE4VWV4NUMzNDNWazlsNEt1eW9XaXFCQTI3dWh0eS9GcEJL",
         "task_list": {
@@ -28,15 +26,17 @@
                 "description": "Sample Task-5"
             }
         }
-    },
-    {
+    }, {
         "username": "tejukutti3",
         "password": "JDJiJDEyJGE4V2pxLm5mVUVOTS5WYWtUeWpENU9tUFRIVi9xUmpjc3kuZlFFSTFzMmtvNjVsT2JlSFFx",
         "task_list": {}
-    },
-    {
+    }, {
         "username": "tanukutti21",
         "password": "JDJiJDEyJHNWSlZVWkV2ZmVzMzc4QnNGUUFpN09kYUhYRXA3aXNhaHZIaEJXRHpLU3ZpZTducFptUUQu",
+        "task_list": {}
+    }, {
+        "username": "saikrishnan72",
+        "password": "JDJiJDEyJGNGWUMuSVZSd3Bhb0xoNG9yelcuTU85d3Q0UTRDREN2TFpCVmVpb0RKOWQxTHJwcU9URGZx",
         "task_list": {}
     }
 ]
